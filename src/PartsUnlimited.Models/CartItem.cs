@@ -5,7 +5,7 @@ using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
-//Comentario
+//Comentario uno
 {
     public class CartItem
     {
